@@ -7,3 +7,4 @@
 | 2026-11-19 | Feed | Oferta (sem linha no calendário; pilar não usado no mês) | 30 dias grátis. Sem cartão. Sem pegadinha. | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=191092396385911399 |
 | 2026-11-20 | Feed | Produto | Seu cliente agenda 24 horas. | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-3703946145178827617 |
 | 2026-11-21 | Feed | Gestão (sem linha no calendário; pilar ainda não usado no mês) | Feche a semana com 3 perguntas. | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-635066793554066806 |
+| 2026-11-22 | Feed | Engajamento | Qual corte mais sai na sua barbearia? (enquete) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-8893123584786216756 |
