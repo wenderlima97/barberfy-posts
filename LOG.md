@@ -9,3 +9,4 @@
 | 2026-11-21 | Feed | Gestão (sem linha no calendário; pilar ainda não usado no mês) | Feche a semana com 3 perguntas. | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-635066793554066806 |
 | 2026-11-22 | Feed | Engajamento | Qual corte mais sai na sua barbearia? (enquete) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-8893123584786216756 |
 | 2026-11-23 | Feed | Dor | Cliente faltou. Horário perdido. (pergunta: quantas vezes por semana) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-5218134490201764199 |
+| 2026-11-24 | Feed | Produto (sem linha no calendário; pilar mais abaixo da meta no mês) | Cliente fiel ganha corte grátis (fidelidade) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-9007239041835907387 |
