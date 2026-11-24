@@ -1,0 +1,8 @@
+{"scenes":[
+{"theme":"dark","kicker":"Dono de barbearia","title":"Cliente agenda sem te chamar.","duration":3},
+{"theme":"light","kicker":"Passo 1","title":"Abre a página da sua barbearia.","sub":"Link próprio, é só compartilhar.","duration":4},
+{"theme":"light","kicker":"Passo 2","title":"Escolhe o serviço e o barbeiro.","duration":3.5},
+{"theme":"light","kicker":"Passo 3","title":"Escolhe o horário livre.","sub":"Sem horário marcado em dois lugares.","duration":4},
+{"theme":"dark","title":"Agenda online. Sem caderno.","duration":3},
+{"theme":"dark","title":"30 dias grátis. Sem cartão.","sub":"Depois, R$ 49,90 por mês.","cta":"Link na bio","logo":true,"duration":5}
+]}
