@@ -11,4 +11,4 @@
 | 2026-11-23 | Feed | Dor | Cliente faltou. Horário perdido. (pergunta: quantas vezes por semana) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-5218134490201764199 |
 | 2026-11-24 | Feed | Produto (sem linha no calendário; pilar mais abaixo da meta no mês) | Cliente fiel ganha corte grátis (fidelidade) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=-9007239041835907387 |
 | 2026-11-25 | Reel 22 s (motion) | Produto | Cliente agenda pela página da barbearia (serviço, barbeiro, horário livre) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=3085456690026267381 |
-| 2026-11-26 | Feed | Gestão (sem linha no calendário; pilar mais abaixo da meta no mês) | Ache o seu dia fraco. (3 passos: horários vagos, dia que se repete, motivo para vir) | PENDENTE_LINK |
+| 2026-11-26 | Feed | Gestão (sem linha no calendário; pilar mais abaixo da meta no mês) | Ache o seu dia fraco. (3 passos: horários vagos, dia que se repete, motivo para vir) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=8166717921517784778 |
