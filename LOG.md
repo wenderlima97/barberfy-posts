@@ -14,3 +14,4 @@
 | 2026-11-26 | Feed | Gestão (sem linha no calendário; pilar mais abaixo da meta no mês) | Ache o seu dia fraco. (3 passos: horários vagos, dia que se repete, motivo para vir) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=8166717921517784778 |
 | 2026-11-27 | Feed | Oferta | Black Friday da barbearia: 30 dias grátis. Sem cartão. Sem pegadinha. | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=6143796834059239512 |
 | 2026-11-28 | Feed | Dor (sem linha no calendário; pilar mais abaixo da meta no mês) | Cliente sumiu. Você não viu. (CTA: comente QUERO) | https://app.metricool.com/planner/calendar?blogId=8156243&openWithPostUuid=51125802533931707 |
+| 2026-11-29 | Feed | Fundador (adaptado: sem conversas reais citadas) | 3 perguntas para você. (faltas, dia vazio, comissão) | PLANNER_PENDENTE |
